@@ -13,7 +13,7 @@
 ```bash
 npx paritosh
 ```
-**👆 This command line tool can be found at [npx docs](https://github.com/anmol098/npx_card)**
+**👆 This command line tool can be found at [npx docs](https://github.com/proparitoshsingh/npx-personal-card)**
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="250px" >
 
