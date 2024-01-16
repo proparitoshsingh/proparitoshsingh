@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">](https://linktr.ee/proparitoshsingh)
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/proparitosh1609)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/proparitoshsingh/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://proparitoshsingh.github.io/portfolio/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://proparitoshsingh.github.io/react_portfolio_website/)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/proparitoshsingh/)
 [<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">](https://www.hackerearth.com/@proparitoshsingh)
 
@@ -30,7 +30,7 @@ npx paritosh
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> If you talk in code then...  
 
 ```javascript
-const thai = {
+const aboutMe = {
   pronouns: "he" | "him",
   code: [Rust, Solidity, Javascript, html, css, Python, Java],
   frameworks: [Anchor, Hardhat, React, Vue, Node, Django],
